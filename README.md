@@ -1,0 +1,2 @@
+# MediaTomb
+Configuration file.
