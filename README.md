@@ -1,3 +1,4 @@
-# MediaTomb
-Configuration file for DebianBook
-https://www.facebook.com/groups/Amici.di.Debian/
+# MediaTomb config
+Configuration file for Debian
+
+"THE BEER-WARE LICENSE"
